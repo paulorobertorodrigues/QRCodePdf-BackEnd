@@ -1,3 +1,7 @@
+Pra Rodar o codido do Server - Abaixo
+
+ npm start
+
 Descrição Geral
 Este código é uma parte de uma aplicação backend escrita em JavaScript utilizando o framework Express.js. Ele implementa uma rota de autenticação de administradores, que valida as credenciais fornecidas (email e senha) e gera um JSON Web Token (JWT) para sessões autenticadas. O token gerado é armazenado como um cookie no navegador do cliente.
 
